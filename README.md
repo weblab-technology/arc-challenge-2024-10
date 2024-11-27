@@ -5,6 +5,11 @@ This repository contains a Python implementation designed to solve the [ARC Chal
 The script integrates with APIs and libraries to process and analyze problem sets. The original notebook can be viewed 
 and executed directly on Google Colab [here](https://colab.research.google.com/drive/1-rQoqrGRGQE6M8bMpfzqf6tV3TnUi-Mp?authuser=1#scrollTo=mfDUGTFgYfZw).
 
+## Solution Workflow
+Below is a diagram illustrating how the solution process works:
+
+![Solution Workflow](asset.jpeg)
+
 ## What This Code Does
 This script is designed to solve ARC challenges by leveraging AI capabilities through the following steps:
 1. **Task Loading**: Loads challenge tasks and corresponding solutions from JSON files.
