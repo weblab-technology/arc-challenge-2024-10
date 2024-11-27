@@ -8,7 +8,7 @@ and executed directly on Google Colab [here](https://colab.research.google.com/d
 ## Solution Workflow
 Below is a diagram illustrating how the solution process works:
 
-![Solution Workflow](asset.jpeg)
+![Solution Workflow](./asset.png)
 
 ## What This Code Does
 This script is designed to solve ARC challenges by leveraging AI capabilities through the following steps:
